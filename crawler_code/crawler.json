@@ -1,0 +1,10 @@
+{
+    "Dark_network_trading_market": {
+        "Domain":"xxxxxxxx3a3kuuhhw5w7stk25fzhttrlpiomij5bogkg7yyqsng5tqyd.onion",
+        "WebsiteName":"暗网交易市场",
+        "Crawler_Files": "Dark_network_trading_market.py",
+        "IsAlive": "1",
+        "Function": "dark_network_trading_market"
+    }
+
+}
